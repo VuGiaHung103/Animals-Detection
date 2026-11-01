@@ -7,7 +7,6 @@ An end-to-end Deep Learning project for classifying 10 animal species from scrat
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x%20(CUDA%2012.4)-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorBoard](https://img.shields.io/badge/TensorBoard-Monitoring-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/tensorboard)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -218,5 +217,3 @@ print(f"Result: {predicted_class}")
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
